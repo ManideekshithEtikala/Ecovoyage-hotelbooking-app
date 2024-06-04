@@ -1,0 +1,155 @@
+[
+  {
+    "name": "ITC Kohenur - A Luxury Collection Hotel",
+    "place": "Hyderabad",
+    "location": "Hyderabad, Hitech City | 21.3 km from city centre",
+    "geocode": {
+      "lat": 17.432178,
+      "lon": 78.384995
+    },
+    "dates": {
+      "checkin": null,
+      "checkout": null
+    },
+    "contact": {
+      "phone": "810-889-9002",
+      "email": "info@tajhotels.com",
+      "website": "https://www.tajhotels.com/en-in/hotels/taj-falaknuma-palace-hyderabad"
+    },
+    "description": {
+      "short": "An award-winning property, ITC Kohenur, a Luxury Collection Hotel, Hyderabad features a magnificent infrastructure, sophisticated rooms, an incredible culinary journey, and top-notch leisure amenities.",
+      "long": "ITC Kohenur, a Luxury Collection Hotel, Hyderabad offers a magnificent infrastructure, comprising 274 luxurious rooms, including 9 uniquely designed suites and 27 service residences, making it amongst the largest in the city. The hotel takes design inspiration from the famous Koh-i-Noor diamond, with a cascade of locally-made bangles greeting guests upon entry, reflecting a 'regional' and sophisticated theme  . The property boasts a serene setting, with 60% of the rooms and suites overlooking a freshwater lake, providing a calm retreat amidst the city's hustle and bustle. Additionally, ITC Kohenur offers an incredible culinary journey and top-notch leisure amenities, making it a precious jewel in Hyderabad"
+    },
+    "price": {
+      "original": 35000,
+      "discount": 33500
+    },
+    "reserved": false,
+    "detailsofuser": {
+      "noofrooms": null,
+      "noofadults": null,
+      "noofchildren": null,
+      "noofpets": null
+    },
+    "offers": {
+      "highoffers": {
+        "shortdesc": "Exclusive offers on Rooms and services with over 200+ amentites",
+        "longdesc": "Hotels that contains most of the explorer needs . Check out these hotels which contains Exclusive offers and deals.",
+        "ho": true
+      },
+      "luxury": {
+        "shortdesc": "Luxury offers grab now to take the chance.",
+        "longdesc": "High class rooms multiple amentities room serveices and much more explore the luxury hotels in your places",
+        "lu": true
+      },
+      "ecosystem": {
+        "shortdesc": "Eco friendly hotels with multiple offers and deals",
+        "longdesc": "High class rooms multiple amentities room serveices,with sustainable developed areas and ecofriendly. explore the luxury hotels in your places",
+        "ec": true
+      }
+    },
+    "rating": 4.3,
+    "ammentities": {
+      "ac": true,
+      "petcare": true,
+      "parking": true,
+      "wifi": true,
+      "swimmingpool": true,
+      "gym": true,
+      "restaurant": true,
+      "bar": false,
+      "laundry": false,
+      "roomservice": true,
+      "conferencehall": false,
+      "childrenplayarea": true,
+      "airportpickup": true,
+      "airportdrop": true,
+      "laundryservice": false
+    },
+    "images": {
+      "mainimage": "/pictures/hotelsdata/itc.jpg",
+      "galleryimages": [
+        "/pictures/hotelsdata/itc1.jpg",
+        "/pictures/hotelsdata/itc2.jpg",
+        "/pictures/hotelsdata/itc3.jpg",
+        "/pictures/hotelsdata/itc4.jpg",
+        "/pictures/hotelsdata/itc5.jpg",
+        "/pictures/hotelsdata/itc6.jpg",
+        "/pictures/hotelsdata/itc7.jpg"
+      ]
+    }
+  },
+  {
+    "name": "Cloud 5 Studios",
+    "place": "Hyderabad",
+    "location":  "Hyderabad , Golconda Fort11.2 kms away ; Salar Jung Museum17.4 kms away",
+    "geocode": {
+      "lat": 17.445600,
+      "lon": 78.445550
+    },
+    "dates": {
+      "checkin": null,
+      "checkout": null
+    },
+    "contact": {
+      "phone": "810-889-9002",
+      "email": "info@tajhotels.com",
+      "website": "https://www.tajhotels.com/en-in/hotels/taj-falaknuma-palace-hyderabad"
+    },
+    "description": {
+      "short": "Cloud 5 Studios in Hitech City, Hyderabad offers an ideal stay option for both leisure and business travelers due to its convenient location with popular landmarks and sought-after spots like Miyapur Metro Statio and Golconda Fort ",
+      "long": "Cloud 5 Studios is a 4-star hotel located in Hitech City, Hyderabad, offering a convenient and comfortable stay for both leisure and business travelers 2 . The hotel's prime location ensures easy access to popular landmarks and sought-after spots, such as Miyapur Metro Station (8.4 km) and Golconda Fort (11.2 km) 2 . This makes it an ideal choice for those looking to explore the city or conduct business activities. Additionally, the hotel provides attractively located room service, a 24-hour front desk, and free Wi-Fi, catering to the needs of its guests"
+    },
+    "price": {
+      "original": 3500,
+      "discount": 3300
+    },
+    "reserved": false,
+    "detailsofuser": {
+      "noofrooms": null,
+      "noofadults": null,
+      "noofchildren": null,
+      "noofpets": null
+    },
+    "offers": {
+      "highoffers": {
+        "shortdesc": "Exclusive offers on Rooms and services with over 200+ amentites",
+        "longdesc": "Hotels that contains most of the explorer needs . Check out these hotels which contains Exclusive offers and deals.",
+        "ho": true
+      },
+      "ecosystem": {
+        "shortdesc": "Eco friendly hotels with multiple offers and deals",
+        "longdesc": "High class rooms multiple amentities room serveices,with sustainable developed areas and ecofriendly. explore the luxury hotels in your places",
+        "ec": true
+      }
+    },
+    "rating": 4.15,
+    "ammentities": {
+      "ac": true,
+      "petcare": true,
+      "parking": true,
+      "wifi": true,
+      "swimmingpool": true,
+      "gym": true,
+      "restaurant": true,
+      "bar": false,
+      "laundry": false,
+      "roomservice": true,
+      "conferencehall": false,
+      "childrenplayarea": true,
+      "airportpickup": true,
+      "airportdrop": true,
+      "laundryservice": false
+    },
+    "images": {
+      "mainimage": "/pictures/hotelsdata/c5s.jpg",
+      "galleryimages": [
+        "/pictures/hotelsdata/c5s2.jpg",
+        "/pictures/hotelsdata/c5s3.jpg",
+        "/pictures/hotelsdata/c5s4.jpg",
+        "/pictures/hotelsdata/c5s5.jpg",
+        "/pictures/hotelsdata/c5s6.jpg"
+      ]
+    }
+  }
+]
